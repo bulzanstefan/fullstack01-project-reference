@@ -18,4 +18,13 @@
         <module>students-service</module>
         <module>notification-service</module>
     </modules>
+         
+   	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<name>GitHub Packages</name>
+			<url>https://maven.pkg.github.com/bulzanstefan/reference-project</url>
+		</repository>
+	</distributionManagement>
+
 </project>
