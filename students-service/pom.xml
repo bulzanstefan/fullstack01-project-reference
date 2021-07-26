@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.fasttrackit.curs16</groupId>
     <artifactId>students-service</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>students-service</name>
     <description>Students Service</description>
     <properties>
